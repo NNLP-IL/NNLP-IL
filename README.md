@@ -37,7 +37,7 @@ Read our [Code of Conduct](./CODE_OF_CONDUCT.md) that we expect project particip
 
 ### Contributing Guide
 
-Read our [contributing guide](CONTRIBUTING.md) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to NNLP-IL.
+Read our [Contributing Guide](https://github.com/NNLP-IL/Standards/blob/main/CONTRIBUTING.md) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to NNLP-IL.
 
 
 ## License
