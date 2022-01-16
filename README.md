@@ -14,9 +14,10 @@ NLP in Hebrew (and to a lesser extent also in Arabic) is left behind. The major 
 * The industry's economic interest in investing in NLP in Hebrew (and to some extent also in Arabic) is limited compared to other common languages, since it is a relatively small market.
 
 ## Guiding Prinicples
-* Full use license for products and code for government ministries.
-* Public access without dependencies - for example on National NLP Github (open source Apache license).
-* Involve end users in the definition and development process.
+* Generic framework that will allow fitting and customizing solutions to various applications (without focusing on specific use cases).
+* Open sourced (as much as possible) - Everyone can take part, contribute and use.
+* Break through the data barrier - creating tagged and untagged datasets and make them accessible to the general public.
+* Usability - distributing capabilities through manuals, convenient packaging of code and more.
 
 ## Who's taking part?
 The NNLP-IL is an initiative of:
