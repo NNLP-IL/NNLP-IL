@@ -6,17 +6,16 @@ We know what you're thinking.. (Why in english? :woman_facepalming:) - as for no
 
 
 ## Why Is There a Need for a National Plan?
-NLP in Hebrew (and to a lesser extent also in Arabic) is left behind. The major breakthrough that will allow significant use has not yet been made, in scale, in NLP
-technologies in different outlines. The cost of fitting and customizing each use case on its own is very high.
+NLP in Hebrew (and to a lesser extent also in Arabic) is left behind. The major breakthrough that will allow significant use has not yet been made, the cost of fitting and customizing each use case on its own is very high.
 
 ### The Core Reasons
 * Hebrew and Arabic are difficult languages (rich in morphology), most of the technological development is with morphologically thin languages.
 * Modern language models require vast datasets. The accessible data in Hebrew is very limited.
-* Small market, there is no clear economic interest for the industry to invest in the development of NLP in Hebrew.
+* The industry's economic interest in investing in NLP in Hebrew (and to some extent also in Arabic) is limited compared to other common languages, since it is a relatively small market.
 
 ## Guiding Prinicples
 * Full use license for products and code for government ministries.
-* Public access without dependencies - for example on National NLP Github (open source MIT license).
+* Public access without dependencies - for example on National NLP Github (open source Apache license).
 * Involve end users in the definition and development process.
 
 ## Who's taking part?
