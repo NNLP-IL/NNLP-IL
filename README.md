@@ -26,7 +26,7 @@ The NNLP-IL is an initiative of:
 * The Israeli Ministry of Defence Directorate of Defense Research and Development (DDR&D).
 
 ## Active Projects
-* Index of open tools and resources for Natural Language Processing in Hebrew - The resources index that was created and managed by [Shay Palachi](https://github.com/shaypal5) and the [NLPH community](https://github.com/NLPH/NLPH) is now maintained by the NNLP-IL community (:pray: Thanks for the kickstarting the NNLP-IL community with its first major comtibution).
+* Index of open tools and resources for Natural Language Processing in Hebrew - The resources index that was created and managed by [Shay Palachi](https://github.com/shaypal5) and the [NLPH community](https://github.com/NLPH/NLPH) is now maintained by the NNLP-IL community (:pray: Thanks for the kickstarting the NNLP-IL community with it's first major comtibution).
 
 ## :star: Contributing
 The main purpose of this repository is to increase the development in Hebrew and Arabic NLP, Making it relevant and easier to use. Read below to learn how you can take part in improving NNLP-IL.
