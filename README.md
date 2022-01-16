@@ -33,7 +33,7 @@ The main purpose of this repository is to increase the development in Hebrew and
 
 ### Code of Conduct
 
-Read our [Code of Conduct](./CODE_OF_CONDUCT.md) that we expect project participants to adhere to. Please read the full text so that you can understand what actions will and will not be tolerated.
+Read our [Code of Conduct](https://github.com/NNLP-IL/Standards/blob/main/CODE_OF_CONDUCT.md) that we expect project participants to adhere to. Please read the full text so that you can understand what actions will and will not be tolerated.
 
 ### Contributing Guide
 
