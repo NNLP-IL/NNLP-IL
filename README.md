@@ -20,7 +20,6 @@ NLP in Hebrew (and to a lesser extent also in Arabic) is left behind. The major 
 * Usability - distributing capabilities through manuals, convenient packaging of code and more.
 
 ## Who's taking part?
-The NNLP-IL is an initiative of:
 * Israel Innovation Authority.
 * The Ministry of Innovation, Science & Technology.
 * The Israeli Ministry of Defence Directorate of Defense Research and Development (DDR&D).
