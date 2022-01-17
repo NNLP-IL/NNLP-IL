@@ -2,7 +2,7 @@
 
 NNLP-IL is a national initiative for the creation of infrastructure, research and development of advanced capabilities for the advancement of the field of NLP in Hebrew and Arabic.
 
-We know what you're thinking.. (Why in english? :woman_facepalming:) - as for now we have decided english will work best for the NNLP-IL open source community, for more (Hebrew) information on the plan, see [NNLP-IL Homepage](https://www.nationalplanil.ai/) (Arabic version is coming soon..).
+We know what you're thinking.. (Why in english? :woman_facepalming:) - as for now we have decided english will work best for the NNLP-IL open source community, for more (Hebrew) information see [NNLP-IL Homepage](https://www.nationalplanil.ai/) (Arabic version is coming soon..).
 
 
 ## Why Is There a Need for a National Plan?
