@@ -20,9 +20,11 @@ NLP in Hebrew (and to a lesser extent also in Arabic) is left behind. The major 
 * Usability - distributing capabilities through manuals, convenient packaging of code and more.
 
 ## Who's taking part?
+* You!
+* The Israeli Ministry of Defence Directorate of Defense Research and Development (DDR&D).
 * Israel Innovation Authority.
 * The Ministry of Innovation, Science & Technology.
-* The Israeli Ministry of Defence Directorate of Defense Research and Development (DDR&D).
+
 
 ## Active Projects
 * [Index of open tools and resources for Natural Language Processing in Hebrew](https://github.com/NNLP-IL/Resources) - The resources index that was created and managed by [Shay Palachi](https://github.com/shaypal5) and the [NLPH community](https://github.com/NLPH/NLPH) is now maintained by the NNLP-IL community (:pray: Thanks for the kickstarting the NNLP-IL community with it's first major contibution).
